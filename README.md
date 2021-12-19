@@ -1,4 +1,4 @@
-<img src="https://github.com/nazianafis/Resources/blob/main/meta/resources.png" height=300 align="right">
+<img src="https://github.com/nazianafis/Resources/blob/main/meta/resources.png" height=250 align="right">
 
 # Resources
 
